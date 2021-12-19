@@ -39,3 +39,11 @@
 
 ## Рузультати виконання програми
 ![4-5 result](https://github.com/whiteman1989/Python_lab_work_4/blob/master/images/work_res_4-5.jpg?raw=true)
+
+# Лабораторна робта №4-6
+- Написати програму розрахунку №+10 числа послідовності Фібоначчі
+
+Де №- остання цифра номеру студента у списку групи.
+
+## Рузультати виконання програми
+![4-6 result](https://github.com/whiteman1989/Python_lab_work_4/blob/master/images/work_res_4-6.jpg?raw=true)
