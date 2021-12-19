@@ -25,9 +25,17 @@
 ![4-3 result](https://github.com/whiteman1989/Python_lab_work_4/blob/master/images/work_res_4-3.jpg?raw=true)
 
 # Лабораторна робта №4-4
-- 4. За допомогою filter вибрати з генерованої послідовності на інтервалі [-15, 15]  елементи менше №.
+- За допомогою filter вибрати з генерованої послідовності на інтервалі [-15, 15]  елементи менше №.
 
 Де №- остання цифра номеру студента у списку групи.
 
 ## Рузультати виконання програми
 ![4-4 result](https://github.com/whiteman1989/Python_lab_work_4/blob/master/images/work_res_4-4.jpg?raw=true)
+
+# Лабораторна робта №4-5
+- За допомогою функції reduce обчислити суму і добуток елементів у списку [12, 34, 45, 66, №].
+
+Де №- остання цифра номеру студента у списку групи.
+
+## Рузультати виконання програми
+![4-5 result](https://github.com/whiteman1989/Python_lab_work_4/blob/master/images/work_res_4-5.jpg?raw=true)
